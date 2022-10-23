@@ -1,0 +1,20 @@
+.inputSearchContainer {
+  position: relative;
+  padding: 0;
+  max-width: 360px;
+}
+.input {
+  height: 30px;
+  margin: 0;
+  padding-left: 30px;
+  border-radius: 20px;
+  border: none;
+  background-color: #f2f2f2;
+}
+.image {
+  position: absolute;
+  bottom: 5px;
+  left: 6px;
+  width: 15px;
+  height: 20px;
+}
